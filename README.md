@@ -27,7 +27,11 @@ O sistema permite realizar operações completas de **CRUD (Create, Read, Update
   - Criação das tabelas
   - Funções de inserção, leitura, atualização e exclusão
   - Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
-
+    
+**criarbd.py**
+  - Criação e inicialização do banco de dados SQLite
+  - Definição das tabelas e relacionamentos
+  - Garantia da estrutura correta do banco antes da execução do sistema
 ---
 
 ## 💾 Banco de Dados
