@@ -14,14 +14,7 @@ O sistema permite realizar operações completas de **CRUD (Create, Read, Update
 - **ttk** (Widgets avançados do Tkinter)
 
 
-- ✅ Cadastro de alunos com:
--  Busca de alunos pelo nome
--  Atualização de dados cadastrados
--  Exclusão de alunos
--  Listagem de alunos em tabela (Treeview)
--  Upload e exibição de imagem do aluno
--  Integração com banco de dados SQLite
--  Interface gráfica simples e intuitiva
+
 
   ## 🧠 Organização do Código
 
@@ -45,6 +38,17 @@ Os dados são persistidos localmente, garantindo simplicidade e eficiência para
 
 ---
 
+
+  ##  Cadastro de alunos com:
+-  Busca de alunos pelo nome
+-  Atualização de dados cadastrados
+-  Exclusão de alunos
+-  Listagem de alunos em tabela (Treeview)
+-  Upload e exibição de imagem do aluno
+-  Integração com banco de dados SQLite
+-  Interface gráfica simples e intuitiva
+
+  
 ## 🎓 Referências
 
 O desenvolvimento inicial deste projeto foi baseado no tutorial:
