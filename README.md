@@ -54,8 +54,7 @@ Os dados são persistidos localmente, garantindo simplicidade e eficiência para
 
 ## 🎓 Referências
 
-O desenvolvimento inicial deste projeto foi baseado no tutorial:
-- **“Como criar um Sistema de Cadastro de Alunos em Python”** — YouTube  
-  Link: https://www.youtube.com/watch?v=TQj48T7m02c
+Este projeto teve como base um tutorial desenvolvido por **João Futi Muanda | Dev**, que serviu como apoio para a compreensão da estrutura do sistema, implementação das tabelas, operações de CRUD e lógica da interface.
 
-Agradeço ao autor do vídeo pela explicação que serviu de guia para a implementação das tabelas, CRUD e lógica de interface.
+A referência foi utilizada exclusivamente como material de estudo e adaptação durante o desenvolvimento do projeto.
+
