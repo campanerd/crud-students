@@ -28,7 +28,7 @@ O sistema permite realizar operações completas de **CRUD (Create, Read, Update
   - Funções de inserção, leitura, atualização e exclusão
   - Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
     
-**criarbd.py**
+- **criarbd.py**
   - Criação e inicialização do banco de dados SQLite
   - Definição das tabelas e relacionamentos
   - Garantia da estrutura correta do banco antes da execução do sistema
@@ -56,6 +56,6 @@ Os dados são persistidos localmente, garantindo simplicidade e eficiência para
 
 O desenvolvimento inicial deste projeto foi baseado no tutorial:
 - **“Como criar um Sistema de Cadastro de Alunos em Python”** — YouTube  
-  Link: https://www.youtube.com/watch?v=TQj48T7m02c :contentReference[oaicite:5]{index=5}
+  Link: https://www.youtube.com/watch?v=TQj48T7m02c
 
 Agradeço ao autor do vídeo pela explicação que serviu de guia para a implementação das tabelas, CRUD e lógica de interface.
